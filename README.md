@@ -32,8 +32,8 @@ Welcome to my GitHub! I'm passionate about using data to solve real-world proble
 ---
 
 ## 🏆 Certifications:  
-- 📜 Certified in
--   **SQL**, **Excel**, and **Power BI** from CloudyML.  
+- 📜 Certified in  [**SQL**](https://drive.google.com/file/d/1Tj6TM67Lu7BcZl4ZK0W3_ypjYWv9dB0c/view?usp=drive_link),  [**Excel**](https://drive.google.com/file/d/1V0fj-sCChk4HpjYCiaKBCW0APZlrGf2b/view?usp=drive_link), and  [**Power BI**](https://drive.google.com/file/d/1WiYBmaareWZaGt5DycvaY-nEZQc5WGGc/view?usp=drive_link) from CloudyML.
+-   [**SQL (Advanced)**](https://www.hackerrank.com/certificates/23d134a39e6f) Certificate from **HackerRank**
 <!--
 - 🏅 Completed courses in **Data Analysis & Visualization**.  
 -->
